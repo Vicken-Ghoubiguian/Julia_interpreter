@@ -21,7 +21,7 @@ __important precision__: to generate the julia interpreter docker image with the
 If you want generate the Docker image from the repo's Dockerfile, you must clone the project's git repo first:
 
 ```bash
-git clone https://gitlab.imerir.com/eric.ghoubiguian/julia_interpreter
+git clone https://github.com/Vicken-Ghoubiguian/Julia_interpreter
 ```
 Then, execute the following command:
 
